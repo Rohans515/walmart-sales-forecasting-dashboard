@@ -53,7 +53,8 @@ Performed:
 
 ## Dashboard Preview
 
-![Dashboard](powerbi/dashboard.png)
+![Dashboard](powerbi/<img width="1331" height="737" alt="dashboard" src="https://github.com/user-attachments/assets/0e3c5355-64ac-4714-a738-350aaba5bc07" />
+)
 
 ## Power BI Dashboard Features
 
