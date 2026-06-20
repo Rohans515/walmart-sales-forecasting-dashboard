@@ -51,6 +51,10 @@ Performed:
 * Linear Regression Forecasting
 * ARIMA Forecasting
 
+## Dashboard Preview
+
+![Dashboard](powerbi/dashboard.png)
+
 ## Power BI Dashboard Features
 
 * Total Sales KPI
